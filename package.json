@@ -1,0 +1,27 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "it is a react project.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishabiswas/ReactProject.git"
+  },
+  "author": "anisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishabiswas/ReactProject/issues"
+  },
+  "homepage": "https://github.com/anishabiswas/ReactProject#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  }
+}
