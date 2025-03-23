@@ -11,7 +11,7 @@ Reason: facing isssue with parcel 2.14.1 version, That's why I've installed the 
 steps to degrade the version: Uninstall the current version ---> npm uninstall parcel
 Install the desired version ---> npm install -D parcel@2.13.3
 
-solution
+solution - 
 follow this github repo -- https://github.com/parcel-bundler/parcel/issues/10115
 
 prompts for AI - Visit the GitHub repository or documentation for @parcel/transformer-react-refresh-wrap to check for any reported issues or updates that might be relevant to your case.
